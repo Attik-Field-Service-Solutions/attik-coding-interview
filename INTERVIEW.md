@@ -124,7 +124,7 @@ GET /api/todos
 3. Fix it (in the API, the client, or both — your call)
 4. Briefly explain what was wrong and how you fixed it
 
-You may use AI tools, but walk us through your diagnosis.
+You may not use AI tools, but walk us through your diagnosis.
 
 ---
 
@@ -148,15 +148,15 @@ Walk us through what the AI did after it completes.
 
 ## Evaluation Criteria
 
-| Area                 | What We're Looking For                 |
-| -------------------- | -------------------------------------- |
-| **TypeScript**       | Proper typing, no `any` types          |
-| **React Patterns**   | Correct use of hooks, state management |
-| **Component Design** | Logical separation of concerns         |
-| **Code Quality**     | Clean, readable, maintainable code     |
-| **Debugging**         | Reproduce, isolate, and fix broken APIs |
-| **Problem Solving**  | How you approach and debug issues      |
-| **AI Collaboration** | Effective use of AI tools              |
+| Area                 | What We're Looking For                  |
+| -------------------- | --------------------------------------- |
+| **TypeScript**       | Proper typing, no `any` types           |
+| **React Patterns**   | Correct use of hooks, state management  |
+| **Component Design** | Logical separation of concerns          |
+| **Code Quality**     | Clean, readable, maintainable code      |
+| **Debugging**        | Reproduce, isolate, and fix broken APIs |
+| **Problem Solving**  | How you approach and debug issues       |
+| **AI Collaboration** | Effective use of AI tools               |
 
 ---
 
