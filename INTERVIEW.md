@@ -74,7 +74,7 @@ GET https://jsonplaceholder.typicode.com/todos
 - Fetch data
 - Limit results to **10 todos**
 - Store todos in component state
-- Prefer app router principles
+- PREFER app router principles
 
 ---
 
