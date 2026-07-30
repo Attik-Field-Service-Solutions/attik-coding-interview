@@ -105,11 +105,26 @@ Implement the following operations (client-side only, no API calls needed for mu
 
 ---
 
-## Part 6: Use Tailwind CSS for styling
+## Part 6: Debugging Challenge
 
-Use Tailwind CSS for styling the application.
+Your app should already work against the external JSONPlaceholder API.
 
-Do some basic styling to make the todo list look presentable.
+Now switch your data fetching to the **local** endpoint included in this repo:
+
+```
+GET /api/todos
+```
+
+**Symptom:** Something about completed todos is wrong after the switch (display and/or toggle behavior).
+
+**Task:**
+
+1. Reproduce the bug
+2. Find the root cause
+3. Fix it (in the API, the client, or both — your call)
+4. Briefly explain what was wrong and how you fixed it
+
+You may use AI tools, but walk us through your diagnosis.
 
 ---
 
@@ -139,6 +154,7 @@ Walk us through what the AI did after it completes.
 | **React Patterns**   | Correct use of hooks, state management |
 | **Component Design** | Logical separation of concerns         |
 | **Code Quality**     | Clean, readable, maintainable code     |
+| **Debugging**         | Reproduce, isolate, and fix broken APIs |
 | **Problem Solving**  | How you approach and debug issues      |
 | **AI Collaboration** | Effective use of AI tools              |
 
