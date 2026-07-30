@@ -20,7 +20,7 @@ Tab complete allowed for all tasks.
 This repo is already set up with Next.js, TypeScript, Tailwind, and the App Router.
 
 ```bash
-git clone https://github.com/christo9090/attik-coding-interview.git
+git clone https://github.com/Attik-Field-Service-Solutions/attik-coding-interview.git
 cd attik-coding-interview
 npm install
 npm run dev

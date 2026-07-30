@@ -5,7 +5,7 @@ Next.js + TypeScript + Tailwind starter for the Attik coding interview.
 ## Setup
 
 ```bash
-git clone https://github.com/christo9090/attik-coding-interview.git
+git clone https://github.com/Attik-Field-Service-Solutions/attik-coding-interview.git
 cd attik-coding-interview
 npm install
 npm run dev
