@@ -115,7 +115,7 @@ Now switch your data fetching to the **local** endpoint included in this repo:
 GET /api/todos
 ```
 
-**Symptom:** Something about completed todos is wrong after the switch (display and/or toggle behavior).
+**Symptom:** Something about completed todos is wrong after the switch. Analyze and fix.
 
 **Task:**
 
