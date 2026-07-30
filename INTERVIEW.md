@@ -2,7 +2,7 @@
 
 ## Overview
 
-Build a simple task list application using Next.js and TypeScript. You'll fetch todos from an external API, manage state, and implement basic CRUD operations.
+Build a simple task list application using Next.js and TypeScript. Steps 1-6 should be hand written, no AI. You'll fetch todos from an external API, manage state, and implement basic CRUD operations.
 
 Use an AI-based IDE to code.
 
@@ -124,7 +124,7 @@ GET /api/todos
 3. Fix it (in the API, the client, or both — your call)
 4. Briefly explain what was wrong and how you fixed it
 
-You may not use AI tools, but walk us through your diagnosis.
+You may not use AI tools, walk us through your diagnosis.
 
 ---
 
